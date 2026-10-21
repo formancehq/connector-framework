@@ -2,7 +2,7 @@ module github.com/formancehq/connector-framework
 
 go 1.24.4
 
-toolchain go1.26.10
+toolchain go1.27.3
 
 require (
 	github.com/formancehq/go-libs/v3 v3.2.1
